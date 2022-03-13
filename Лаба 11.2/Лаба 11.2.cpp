@@ -1,90 +1,68 @@
-﻿#include<iostream>
+﻿#include <iostream>
 using namespace std;
 
-struct point
+struct Node//структура с названием Node
 {
-	char data;
-	point* next;//указатель на следующий элемент
-	point* pred;//указатель на предыдущий элемент
+	char data;//информационное поле типа char
+	Node* next;//указатель на следующий элемент
+	Node* pred;//указатель на предидущий элемент
 };
-point* make_point()
-//создание одного элемента
-{
-	point* p = new(point);
-	p->next = 0;
-	p->pred = 0;//обнуляем указатели
-	char s;
-	cout << "\nEnter string:";
-	cin >> p->data;
 
-	return p;
-}
-point* make_list(int n)
-//создание списка
+Node* head;
+
+void AddList(int f, int position)//функция для создания двунаправленного списка
 {
-	point* p, * beg;
-	beg = make_point();//создаем первый элемент
-	for (int i = 1; i < n; i++)
+	Node* node = new Node;//выделяем память для нового элемента списка
+	cout << "\n>>";
+	cin >> node->data;//просим ввести данные
+	if (head == NULL)//проверяем первый ли элемент списка
 	{
-		p = make_point();//создаем один элемент
-		//добавление элемента в начало списка
-		p->next = beg;//связываем р с первым элементом
-		beg->pred = p;//связываем первый элемент с p
-		beg = p;// p становится первым элементом списка
+		node->next = node;
+		node->pred = node;
+		head = node;
 	}
-	return beg;
-}
-void cout_list(point* beg)
-{
-	point* p = beg;
-	while (p != 0)
+	else
 	{
-		cout << p->data<<"\n";
-		p = p->next;
-	}
-}
-point* add_element(point* beg, int n)
-{
-	int k;
-	int count = 1;
-	char s;
-	point* p;
-	cout << "Введите новую букву"<<"\t";
-	cin >> s;
-	cout << "Введите номер под которым будет стоять новая буква";
-	cin >> k;
-	point* r = new(point);
-	r->data = s;
-	r->next = 0;
-	r->pred = 0;
-	for (int i = 0; i < n + 1; i++)
-	{
-		if (k == count)
+		Node* p = head;
+		if (f == 1)
 		{
-			r->next = beg;//связываем р с первым элементом
-			beg->pred = r;//связываем первый элемент с p
-			beg = r;// p становится первым элементом списка
+			for (int i = position; i > 1; i--)
+				p = p->next;
 		}
-		else
-		{
-			p->next = beg;//связываем р с первым элементом
-			beg->pred = p;//связываем первый элемент с p
-			beg = p;// p становится первым элементом списка
-		}
-		count+=1;
+		p->pred->next = node;
+		node->pred = p->pred;
+		node->next = p;
+		p->pred = node;
 	}
-	return beg;
+}
+
+void PrintList()//функция для вывода списка
+{
+	Node* a = head;
+	cout << "\nЭлементы списка: \n";
+	do
+	{
+		cout << a->data << " ";
+		a = a->next;
+	} while (a != head);
 }
 
 int main()
 {
-	point* p;
-	int k;
+	setlocale(LC_ALL, "rus");//подключаем русскую раскладку
 	int n;
-	cout << "enter the count letters";
+	cout << "Введите размер списка: ";//просим ввести размер списка
 	cin >> n;
-	setlocale(LC_ALL, "ru");
-	point* beg = make_list(n);
-	add_element(beg, n);
-	cout_list(beg);
+	for (int i = 0; i < n; i++)
+	{
+		AddList(0, 0);
+	}
+	PrintList();
+	int k = 0;
+	cout << "На какое место поставить новый элемент?" << "\n";
+	cin >> k;//вводим номер нового элемента
+	cout << endl;
+	AddList(1, k);//добавляем элемент
+	PrintList();//выводим список
+	return 0;
 }
