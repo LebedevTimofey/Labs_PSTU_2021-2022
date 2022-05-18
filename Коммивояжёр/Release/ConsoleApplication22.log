@@ -1,0 +1,13 @@
+﻿  ConsoleApplication22.cpp
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(187,6): warning C4101: result: неиспользованная локальная переменная
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(190,7): warning C4101: a: неиспользованная локальная переменная
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(191,7): warning C4101: b: неиспользованная локальная переменная
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(266,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(266,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(272,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 88 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication22.vcxproj -> C:\Users\79504\source\repos\ConsoleApplication22\Release\ConsoleApplication22.exe

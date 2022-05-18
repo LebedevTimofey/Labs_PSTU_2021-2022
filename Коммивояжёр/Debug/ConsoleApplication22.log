@@ -1,0 +1,335 @@
+﻿  ConsoleApplication22.cpp
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(187,6): warning C4101: result: неиспользованная локальная переменная
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(190,7): warning C4101: a: неиспользованная локальная переменная
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(191,7): warning C4101: b: неиспользованная локальная переменная
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(280,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(280,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(286,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(286,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(295,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(295,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(299,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(299,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(308,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(308,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(313,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(313,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(322,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(322,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(327,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(327,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(336,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(336,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(341,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(341,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(350,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(350,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(355,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(355,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(364,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(364,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(369,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(369,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(376,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(376,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(381,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(381,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(387,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(387,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(388,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(388,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(397,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(397,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(398,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(398,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(404,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(404,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(405,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(405,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(411,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(411,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(412,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(412,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(418,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(418,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(419,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(419,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(425,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(425,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(426,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(426,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(432,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(432,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(433,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(433,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(439,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(439,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(440,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(440,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(446,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(446,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(447,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(447,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(452,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(452,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(453,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(453,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(459,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(459,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(460,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(460,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(467,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(467,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(468,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(468,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(474,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(474,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(475,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(475,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(481,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(481,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(482,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(482,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(488,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(488,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(493,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(493,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(498,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(498,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(504,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(504,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(509,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(509,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(514,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(514,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(581,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(581,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(590,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(590,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(594,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79504\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(594,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication22.vcxproj -> C:\Users\79504\source\repos\ConsoleApplication22\Debug\ConsoleApplication22.exe
