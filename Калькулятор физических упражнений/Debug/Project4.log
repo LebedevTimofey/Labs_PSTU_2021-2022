@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\79504\source\repos\Project4\Project4\MyForm.h(564,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\79504\source\repos\Project4\Project4\MyForm.h(623,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> C:\Users\79504\source\repos\Project4\Debug\Project4.exe
